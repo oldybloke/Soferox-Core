@@ -20,7 +20,7 @@ https://www.soferox.com
 
 The algorithm was originally written as a candidate for sha3
 
-https://bitcointalk.org/index.php?topic=525926.0
+https://bitcointalk.org/index.php?topic=2044176.0
 
 Copyright (c) 2009-2018 The Bitcoin Core Developers
 
